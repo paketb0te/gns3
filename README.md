@@ -19,7 +19,10 @@ In the long run, I hope to use playbooks, but I assume that its easier to get st
 
 ### Using Ansible to manage GNS3
 
+https://davidban77.hashnode.dev/automate-your-network-labs-with-ansible-and-gns3-part-1-ck15f0bze000byos1q11xev5c
+
 https://github.com/davidban77/ansible-collection-gns3
+
 - [ ] check API version of the GNS3 server
 - [ ] create two VPC nodes
 - [ ] create 2 Routers from template
