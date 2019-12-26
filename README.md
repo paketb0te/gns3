@@ -11,11 +11,10 @@ In the long run, I hope to use playbooks, but I assume that its easier to get st
 
 ### Getting started with the GNS3 API
 
-- [ ] create two VPC nodes
-- [ ] create two Routers from template and draw them on the canvas
-- [ ] connect the Routers
-- [ ] start the Routers
-- [ ] use Postman to manage API calls
+- [x] create two VPC nodes and draw them on the canvas
+- [x] connect them
+- [x] start the nodes
+- [x] use Postman to manage API calls
 
 ### Using Ansible to manage GNS3
 
