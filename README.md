@@ -11,10 +11,24 @@ In the long run, I hope to use playbooks, but I assume that its easier to get st
 
 ### Getting started with the GNS3 API
 
+https://gns3-server.readthedocs.io/en/latest/
+
 - [x] create two VPC nodes and draw them on the canvas
 - [x] connect them
 - [x] start the nodes
 - [x] use Postman to manage API calls
+
+### Using gns3fy to access the GNS3 API through Python
+
+https://davidban77.github.io/gns3fy/
+
+- [x] create two VPC nodes
+- [x] connect them
+- [ ] start / stop the nodes
+- [x] put topology info into separate file (YAML)
+- [ ] research NDL (network description language) as a possible format to store topology
+- [ ] for better visualization, give nodes different coordinates
+- [ ] ...
 
 ### Using Ansible to manage GNS3
 
