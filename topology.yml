@@ -1,0 +1,21 @@
+---
+nodes:
+  - 
+    name: "vpc_one"
+    template: "VPCS"
+    compute_id: "local"
+  - 
+    name: "vpc_two"
+    template: "VPCS"
+    compute_id: "local"
+
+links:
+  - 
+    nodes:
+      -
+        name: "vpc_one"
+        port_name: "Ethernet0"
+      -
+        name: "vpc_two"
+        port_name: "Ethernet0"
+        
