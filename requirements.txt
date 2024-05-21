@@ -4,5 +4,5 @@ gns3fy==0.6.0
 idna==3.7
 pydantic==1.10.13
 PyYAML==5.4
-requests==2.31.0
+requests==2.32.0
 urllib3==1.26.18
